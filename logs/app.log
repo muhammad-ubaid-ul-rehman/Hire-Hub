@@ -1,0 +1,253 @@
+[2026-05-11 20:28:43] [EXCEPTION] Uncaught exception: Invalid default value for 'job_type' in C:\xampp\htdocs\job_portal\job-alerts.php:6
+[2026-05-11 20:34:19] [WARNING] Login attempt with non-existent email: hassan@gmail.com
+[2026-05-11 20:34:28] [WARNING] Failed login attempt for email: this@this.com
+[2026-05-11 20:34:37] [ERROR] Error [2]: Undefined array key "email" in C:\xampp\htdocs\job_portal\login.php on line 38
+[2026-05-11 20:34:37] [INFO] User  logged in successfully
+[2026-05-11 20:40:42] [ERROR] Error [2]: Undefined array key "email" in C:\xampp\htdocs\job_portal\login.php on line 38
+[2026-05-11 20:40:42] [INFO] User  logged in successfully
+[2026-05-11 20:45:53] [ERROR] Error [2]: Undefined array key "email" in C:\xampp\htdocs\job_portal\login.php on line 38
+[2026-05-11 20:45:53] [INFO] User  logged in successfully
+[2026-05-11 20:47:42] [WARNING] Login attempt with non-existent email: hassan@gmail.com
+[2026-05-11 20:47:54] [ERROR] Error [2]: Undefined array key "email" in C:\xampp\htdocs\job_portal\login.php on line 38
+[2026-05-11 20:47:54] [INFO] User  logged in successfully
+[2026-05-11 20:48:49] [EXCEPTION] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\job_portal\seeker-profile.php:67
+[2026-05-11 20:51:24] [EXCEPTION] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\job_portal\seeker-profile.php:62
+[2026-05-11 20:51:35] [EXCEPTION] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\job_portal\seeker-profile.php:62
+[2026-05-11 20:52:15] [EXCEPTION] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\job_portal\seeker-profile.php:62
+[2026-05-11 23:08:33] [ERROR] Error [2]: Undefined array key "email" in C:\xampp\htdocs\job_portal\login.php on line 38
+[2026-05-11 23:08:33] [INFO] User  logged in successfully
+[2026-05-11 23:22:31] [ERROR] Error [2]: Undefined array key "email" in C:\xampp\htdocs\job_portal\login.php on line 38
+[2026-05-11 23:22:31] [INFO] User  logged in successfully
+[2026-05-11 23:26:29] [EXCEPTION] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\job_portal\seeker-profile.php:62
+[2026-05-11 23:27:15] [EXCEPTION] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\job_portal\seeker-profile.php:62
+[2026-05-11 23:29:49] [EXCEPTION] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\job_portal\seeker-profile.php:62
+[2026-05-11 23:29:55] [EXCEPTION] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\job_portal\seeker-profile.php:62
+[2026-05-14 08:29:06] [ERROR] Error [2]: Trying to access array offset on value of type null in C:\xampp\htdocs\job_portal\admin\index.php on line 462
+[2026-05-14 08:29:06] [ERROR] Error [2]: Trying to access array offset on value of type null in C:\xampp\htdocs\job_portal\admin\index.php on line 462
+[2026-05-14 08:29:06] [ERROR] Error [2]: Trying to access array offset on value of type null in C:\xampp\htdocs\job_portal\admin\index.php on line 462
+[2026-05-14 08:29:55] [ERROR] Error [2]: Undefined array key "email" in C:\xampp\htdocs\job_portal\login.php on line 38
+[2026-05-14 08:29:55] [INFO] User  logged in successfully
+[2026-05-19 03:03:42] [ERROR] Error [2]: Undefined array key "email" in C:\xampp\htdocs\job_portal\login.php on line 38
+[2026-05-19 03:03:42] [INFO] User  logged in successfully
+[2026-06-02 19:45:31] [ERROR] Error [2]: Trying to access array offset on value of type null in C:\xampp\htdocs\job_portal\admin\index.php on line 462
+[2026-06-02 19:45:31] [ERROR] Error [2]: Trying to access array offset on value of type null in C:\xampp\htdocs\job_portal\admin\index.php on line 462
+[2026-06-02 19:45:31] [ERROR] Error [2]: Trying to access array offset on value of type null in C:\xampp\htdocs\job_portal\admin\index.php on line 462
+[2026-06-02 19:47:17] [ERROR] Error [2]: Undefined array key "email" in C:\xampp\htdocs\job_portal\login.php on line 38
+[2026-06-02 19:47:17] [INFO] User  logged in successfully
+[2026-06-03 09:07:32] [EXCEPTION] Uncaught exception: Field 'id' doesn't have a default value in C:\laragon\www\Hire-Hub-main\post-job.php:36
+[2026-06-03 15:31:53] [ERROR] Error [2]: Undefined array key "email" in C:\laragon\www\Hire-Hub-main\login.php on line 38
+[2026-06-03 15:31:53] [INFO] User  logged in successfully
+[2026-06-03 15:32:35] [ERROR] Error [2]: Undefined array key "email" in C:\laragon\www\Hire-Hub-main\login.php on line 38
+[2026-06-03 15:32:35] [INFO] User  logged in successfully
+[2026-06-03 15:33:27] [EXCEPTION] Uncaught exception: Field 'id' doesn't have a default value in C:\laragon\www\Hire-Hub-main\post-job.php:36
+[2026-06-03 16:01:26] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\index.php on line 312
+[2026-06-03 16:01:26] [EXCEPTION] Uncaught exception: e(): Argument #1 ($str) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 312 in C:\laragon\www\Hire-Hub-main\config.php:101
+[2026-06-03 16:01:30] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\index.php on line 312
+[2026-06-03 16:01:30] [EXCEPTION] Uncaught exception: e(): Argument #1 ($str) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 312 in C:\laragon\www\Hire-Hub-main\config.php:101
+[2026-06-03 16:01:32] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\index.php on line 312
+[2026-06-03 16:01:32] [EXCEPTION] Uncaught exception: e(): Argument #1 ($str) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 312 in C:\laragon\www\Hire-Hub-main\config.php:101
+[2026-06-03 16:01:36] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\index.php on line 312
+[2026-06-03 16:01:36] [EXCEPTION] Uncaught exception: e(): Argument #1 ($str) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 312 in C:\laragon\www\Hire-Hub-main\config.php:101
+[2026-06-03 16:01:39] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\index.php on line 312
+[2026-06-03 16:01:39] [EXCEPTION] Uncaught exception: e(): Argument #1 ($str) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 312 in C:\laragon\www\Hire-Hub-main\config.php:101
+[2026-06-03 16:01:39] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\index.php on line 312
+[2026-06-03 16:01:39] [EXCEPTION] Uncaught exception: e(): Argument #1 ($str) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 312 in C:\laragon\www\Hire-Hub-main\config.php:101
+[2026-06-03 16:01:40] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\index.php on line 312
+[2026-06-03 16:01:40] [EXCEPTION] Uncaught exception: e(): Argument #1 ($str) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 312 in C:\laragon\www\Hire-Hub-main\config.php:101
+[2026-06-03 16:01:48] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\index.php on line 312
+[2026-06-03 16:01:48] [EXCEPTION] Uncaught exception: e(): Argument #1 ($str) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 312 in C:\laragon\www\Hire-Hub-main\config.php:101
+[2026-06-03 16:02:06] [EXCEPTION] Uncaught exception: Unknown column 'sp.resume_path' in 'field list' in C:\laragon\www\Hire-Hub-main\candidate_profile.php:47
+[2026-06-03 16:02:23] [WARNING] Login attempt with non-existent email: umeryaseen@gmail.com
+[2026-06-03 16:17:31] [ERROR] Error [2]: Undefined array key "email" in C:\laragon\www\Hire-Hub-main\login.php on line 38
+[2026-06-03 16:17:31] [INFO] User  logged in successfully
+[2026-06-03 16:18:55] [EXCEPTION] Uncaught exception: Invalid default value for 'job_type' in C:\laragon\www\Hire-Hub-main\job-alerts.php:6
+[2026-06-03 16:19:15] [ERROR] Error [2]: Undefined array key "email" in C:\laragon\www\Hire-Hub-main\login.php on line 38
+[2026-06-03 16:19:15] [INFO] User  logged in successfully
+[2026-06-03 16:21:18] [ERROR] Error [2]: Undefined array key "email" in C:\laragon\www\Hire-Hub-main\login.php on line 38
+[2026-06-03 16:21:18] [INFO] User  logged in successfully
+[2026-06-03 16:22:29] [EXCEPTION] Uncaught exception: Invalid default value for 'job_type' in C:\laragon\www\Hire-Hub-main\job-alerts.php:6
+[2026-06-03 16:22:37] [EXCEPTION] Uncaught exception: Invalid default value for 'job_type' in C:\laragon\www\Hire-Hub-main\job-alerts.php:6
+[2026-06-03 16:28:26] [EXCEPTION] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in C:\laragon\www\Hire-Hub-main\job-alerts.php:35
+[2026-06-03 16:28:47] [EXCEPTION] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in C:\laragon\www\Hire-Hub-main\job-alerts.php:35
+[2026-06-03 16:31:03] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\admin\index.php on line 462
+[2026-06-03 16:31:03] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\admin\index.php on line 462
+[2026-06-03 16:31:03] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\admin\index.php on line 462
+[2026-06-03 16:31:03] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\admin\index.php on line 462
+[2026-06-03 16:31:03] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\admin\index.php on line 462
+[2026-06-03 16:31:31] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\admin\index.php on line 462
+[2026-06-03 16:31:31] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\admin\index.php on line 462
+[2026-06-03 16:31:31] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\admin\index.php on line 462
+[2026-06-03 16:31:31] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\admin\index.php on line 462
+[2026-06-03 16:31:31] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\admin\index.php on line 462
+[2026-06-03 16:32:36] [ERROR] Error [2]: Undefined array key "email" in C:\laragon\www\Hire-Hub-main\login.php on line 38
+[2026-06-03 16:32:36] [INFO] User  logged in successfully
+[2026-06-03 16:32:56] [EXCEPTION] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in C:\laragon\www\Hire-Hub-main\job-alerts.php:35
+[2026-06-03 16:34:11] [ERROR] Error [2]: Undefined array key "email" in C:\laragon\www\Hire-Hub-main\login.php on line 38
+[2026-06-03 16:34:11] [INFO] User  logged in successfully
+[2026-06-03 17:18:09] [ERROR] Error [2]: Undefined array key "email" in C:\laragon\www\Hire-Hub-main\login.php on line 38
+[2026-06-03 17:18:48] [EXCEPTION] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in C:\laragon\www\Hire-Hub-main\job-alerts.php:35
+[2026-06-03 17:19:08] [WARNING] Failed login attempt for email: ubaidulrehman086@gmail.com
+[2026-06-03 17:19:14] [ERROR] Error [2]: Undefined array key "email" in C:\laragon\www\Hire-Hub-main\login.php on line 38
+[2026-06-03 17:20:41] [EXCEPTION] Uncaught exception: The number of elements in the type definition string must match the number of bind variables in C:\laragon\www\Hire-Hub-main\job-alerts.php:35
+[2026-06-03 17:29:59] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:29:59] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:30:01] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:30:01] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:30:14] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:30:14] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:30:23] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:30:23] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:30:37] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 384 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:30:37] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:31:11] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 384 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:31:11] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:32:39] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 384 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:32:39] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:32:57] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:32:57] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:33:22] [EXCEPTION] Uncaught exception: Data truncated for column 'job_type' at row 1 in C:\laragon\www\Hire-Hub-main\job-alerts.php:37
+[2026-06-03 17:33:42] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:33:42] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:33:43] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:33:43] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:35:29] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 384 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:35:29] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:41:32] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 385 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:41:35] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:41:35] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:41:36] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:41:36] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:43:35] [EXCEPTION] Uncaught exception: Unknown column 'sp.resume_path' in 'field list' in C:\laragon\www\Hire-Hub-main\candidate_profile.php:47
+[2026-06-03 17:43:51] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:43:51] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:44:18] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:44:18] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:44:21] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:44:21] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:44:24] [EXCEPTION] Uncaught exception: Unknown column 'sp.resume_path' in 'field list' in C:\laragon\www\Hire-Hub-main\candidate_profile.php:47
+[2026-06-03 17:44:26] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:44:26] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:45:14] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 385 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:45:34] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 385 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:45:38] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:45:38] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:45:57] [EXCEPTION] Uncaught exception: Data truncated for column 'frequency' at row 1 in C:\laragon\www\Hire-Hub-main\job-alerts.php:37
+[2026-06-03 17:45:58] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:45:58] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:46:08] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:46:08] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:46:50] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:46:50] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:47:01] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:47:01] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:47:04] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:47:04] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:47:07] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:47:07] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:48:00] [WARNING] Failed login attempt for email: careers@nextgen.com
+[2026-06-03 17:48:10] [WARNING] Failed login attempt for email: careers@nextgen.com
+[2026-06-03 17:48:30] [WARNING] Failed login attempt for email: careers@nextgen.com
+[2026-06-03 17:49:11] [INFO] User hassan@gmail.com logged in successfully
+[2026-06-03 17:49:11] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:49:11] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:49:17] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:49:17] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:49:26] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:49:26] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:49:31] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:49:31] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:49:45] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:49:45] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:51:35] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 385 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:51:44] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 385 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:51:50] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 385 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:52:41] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:52:41] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:52:47] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:52:47] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:52:50] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:52:50] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:52:59] [WARNING] Failed login attempt for email: ubaidulrehman086@gmail.com
+[2026-06-03 17:53:03] [INFO] User ubaidulrehman086@gmail.com logged in successfully
+[2026-06-03 17:53:03] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:53:03] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:55:32] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:55:32] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:55:36] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:55:36] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 17:55:40] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 17:55:40] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:10:42] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:10:42] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:11:01] [EXCEPTION] Uncaught exception: Data truncated for column 'frequency' at row 1 in C:\laragon\www\Hire-Hub-main\job-alerts.php:37
+[2026-06-03 18:13:45] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:13:45] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:13:51] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:13:51] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:13:54] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:13:54] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:13:56] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:13:56] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:14:29] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:14:29] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:14:37] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:14:37] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:14:42] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:14:42] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:14:48] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:14:48] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:16:07] [INFO] User hassan@gmail.com logged in successfully
+[2026-06-03 18:16:07] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:16:07] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:16:11] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:16:11] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:16:15] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:16:15] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:17:07] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:17:07] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:17:14] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:17:14] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:19:16] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 385 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:19:19] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 385 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:20:23] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 385 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:20:26] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 385 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:20:33] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:20:33] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:20:43] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:20:43] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:20:53] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:20:53] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:23:03] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 385 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:24:22] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 385 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:25:09] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\index.php on line 267 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:25:09] [ERROR] Error [2]: Cannot modify header information - headers already sent by (output started at C:\laragon\www\Hire-Hub-main\header.php:14) in C:\laragon\www\Hire-Hub-main\config.php on line 221
+[2026-06-03 18:25:17] [EXCEPTION] Uncaught exception: niceDate(): Argument #1 ($date) must be of type string, null given, called in C:\laragon\www\Hire-Hub-main\admin\index.php on line 385 in C:\laragon\www\Hire-Hub-main\config.php:114
+[2026-06-03 18:33:16] [EXCEPTION] Uncaught exception: Table 'job_portal.users' doesn't exist in C:\laragon\www\Hire-Hub-main\config.php:54
+[2026-06-03 18:33:23] [EXCEPTION] Uncaught exception: Table 'job_portal.users' doesn't exist in C:\laragon\www\Hire-Hub-main\config.php:54
+[2026-06-03 18:33:29] [EXCEPTION] Uncaught exception: Table 'job_portal.users' doesn't exist in C:\laragon\www\Hire-Hub-main\config.php:54
+[2026-06-03 18:33:30] [EXCEPTION] Uncaught exception: Table 'job_portal.jobs' doesn't exist in C:\laragon\www\Hire-Hub-main\index.php:55
+[2026-06-03 18:33:30] [EXCEPTION] Uncaught exception: Table 'job_portal.users' doesn't exist in C:\laragon\www\Hire-Hub-main\config.php:54
+[2026-06-03 18:33:31] [EXCEPTION] Uncaught exception: Table 'job_portal.jobs' doesn't exist in C:\laragon\www\Hire-Hub-main\index.php:55
+[2026-06-03 18:33:32] [EXCEPTION] Uncaught exception: Table 'job_portal.users' doesn't exist in C:\laragon\www\Hire-Hub-main\candidates.php:76
+[2026-06-03 18:33:34] [EXCEPTION] Uncaught exception: Table 'job_portal.jobs' doesn't exist in C:\laragon\www\Hire-Hub-main\index.php:55
+[2026-06-03 18:33:53] [EXCEPTION] Uncaught exception: Table 'job_portal.jobs' doesn't exist in C:\laragon\www\Hire-Hub-main\index.php:55
+[2026-06-03 18:33:56] [EXCEPTION] Uncaught exception: Table 'job_portal.jobs' doesn't exist in C:\laragon\www\Hire-Hub-main\index.php:55
+[2026-06-03 18:33:57] [EXCEPTION] Uncaught exception: Table 'job_portal.jobs' doesn't exist in C:\laragon\www\Hire-Hub-main\index.php:55
+[2026-06-03 18:33:58] [EXCEPTION] Uncaught exception: Table 'job_portal.jobs' doesn't exist in C:\laragon\www\Hire-Hub-main\index.php:55
+[2026-06-03 18:35:47] [EXCEPTION] Uncaught exception: Table 'job_portal.jobs' doesn't exist in C:\laragon\www\Hire-Hub-main\index.php:55
+[2026-06-03 18:35:49] [EXCEPTION] Uncaught exception: Table 'job_portal.jobs' doesn't exist in C:\laragon\www\Hire-Hub-main\index.php:55
+[2026-06-03 18:38:17] [EXCEPTION] Uncaught exception: Table 'job_portal.jobs' doesn't exist in C:\laragon\www\Hire-Hub-main\index.php:55
+[2026-06-03 18:45:21] [EXCEPTION] Uncaught exception: Data truncated for column 'frequency' at row 1 in C:\laragon\www\Hire-Hub-main\job-alerts.php:37
+[2026-06-03 18:45:34] [EXCEPTION] Uncaught exception: Data truncated for column 'frequency' at row 1 in C:\laragon\www\Hire-Hub-main\job-alerts.php:37
+[2026-06-03 18:46:51] [EXCEPTION] Uncaught exception: Data truncated for column 'frequency' at row 1 in C:\laragon\www\Hire-Hub-main\job-alerts.php:43
+[2026-06-03 18:47:00] [EXCEPTION] Uncaught exception: Data truncated for column 'frequency' at row 1 in C:\laragon\www\Hire-Hub-main\job-alerts.php:43
+[2026-06-03 18:49:05] [WARNING] Login attempt with non-existent email: hassan@gmail.com
+[2026-06-03 18:49:49] [WARNING] Failed login attempt for email: careers@nextgen.com
+[2026-06-03 18:49:57] [WARNING] Failed login attempt for email: careers@nextgen.com
+[2026-06-03 18:50:06] [WARNING] Failed login attempt for email: careers@nextgen.com
+[2026-06-03 18:50:29] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\admin\index.php on line 546
+[2026-06-03 18:50:32] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\admin\index.php on line 546
+[2026-06-03 18:50:42] [ERROR] Error [2]: Trying to access array offset on null in C:\laragon\www\Hire-Hub-main\admin\index.php on line 546
+[2026-06-03 18:52:34] [WARNING] Login attempt with non-existent email: ubaidulrehman086@gmail.com
+[2026-06-03 18:54:59] [INFO] User ubaidulrehman086@gmail.com logged in successfully
+[2026-06-03 18:59:35] [INFO] User hassan@gmail.com logged in successfully
